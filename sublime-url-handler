@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+#/**
+# * Sublime URL Handler
+# *
+# * sublime://open?url=file://@file&line=@line
+# * sublime://open?file=@file&line=@line
+# *
+# * @license GPL3
+# * @author Matthias Morin <mat@tangoman.io>
+# */
+
+argument=${1}
+pattern=".*file(:\/\/|\=)(.*)&line=(.*)"
+
+# Get the file path.
+file=$(echo "${argument}" | sed -r "s/${pattern}/\2/")
+
+# Get the line number.
+line=$(echo "${argument}" | sed -r "s/${pattern}/\3/")
+
+# Check if subl command exist.
+if [ -n "$(command -v subl)" ]; then
+    subl "${file}:${line}"
+fi
