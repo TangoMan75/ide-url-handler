@@ -4,7 +4,7 @@
 [![GH stars](https://img.shields.io/github/stars/TangoMan75/ide-url-handler)](https://github.com/TangoMan75/ide-url-handler/stargazers)
 [![Bash CI](https://github.com/TangoMan75/ide-url-handler/workflows/bash_unit%20CI/badge.svg)](https://github.com/TangoMan75/ide-url-handler/actions/workflows/bash_unit.yml)
 [![ShellCheck CI](https://github.com/TangoMan75/ide-url-handler/workflows/ShellCheck%20CI/badge.svg)](https://github.com/TangoMan75/ide-url-handler/actions/workflows/shellcheck.yml)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TangoMan75.ide-url-handler)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTangoMan75%2Fide-url-handler&labelColor=%23697689&countColor=%2337d67a&style=flat)
 
 IDE URL Handler
 ===============
