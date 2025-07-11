@@ -214,7 +214,7 @@ If you want to open an issue, please check first if it was not [reported already
 📜 License
 ----------
 
-Copyrights (c) 2021 &quot;Matthias Morin&quot; &lt;mat@tangoman.io&gt;
+Copyrights (c) 2025 &quot;Matthias Morin&quot; &lt;mat@tangoman.io&gt;
 
 Copyrights (c) 2017 &quot;Stefan Auditor&quot; &lt;stefan.auditor@erdfisch.de&gt;
 
@@ -235,3 +235,14 @@ If you like **IDE URL Handler** please star, follow or tweet about it:
 - This script is a fork of **Stefan Auditor** [phpstorm-url-handler](https://github.com/sanduhrs/phpstorm-url-handler)
 - [bash_unit](https://github.com/pgrange/bash_unit): bash unit testing enterprise edition framework (used for CI/CD)
 - [shellcheck](https://github.com/koalaman/shellcheck): a static analysis tool for shell scripts (used for CI/CD)
+
+👋 Let's Build Your Next Project Together !
+-------------------------------------------
+
+Looking for an experienced Full-Stack Partner ?
+
+Clean code. Clear communication.
+
+From first sketch to final launch, I've got your back.
+
+[![tangoman.io](https://img.shields.io/badge/✉️%20Get%20in%20touch%20now%20!-FD9400?style=for-the-badge)](https://tangoman.io)

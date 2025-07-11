@@ -6,10 +6,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
-- WIP
+## 2025-07-11 - [0.1.0](https://github.com/TangoMan75/shoe/releases/tag/0.1.0)
+### Changed
+- README.md Added call to action
 
-## [1.0.0](https://github.com/TangoMan75/ide-url-handler/releases/tag/1.0.0) - 2021-09-02
+## 2021-09-02
 ### Added
 - Test various operating systems with Docker.
 - VSCode URL Handler.
@@ -24,7 +25,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - phpstorm-url-handler
 - sublime-url-handler
 
-## [0.1.0](https://github.com/TangoMan75/ide-url-handler/releases/tag/0.1.0) - 2021-07-02
+## 2021-07-02
 ### Added
 - Sublime Text URL Handler
 - Install / uninstall script
